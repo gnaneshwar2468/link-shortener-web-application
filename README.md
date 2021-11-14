@@ -34,7 +34,7 @@ we place the URL link for shortener.
 
 
 #STEP-3
-The main part is in link.py
+The main part is in link.py file
 
 where i interated the templates,to make a long URL to a short URL.
 
@@ -42,7 +42,7 @@ I use a demofile,where it store the long URL and shortener URL,instead of creati
 
 
 
-#conclusion
+#conclusion:
 
 By the above process we can make a long link to a shortener link so, we can easily access the link with out any trouble.
 
