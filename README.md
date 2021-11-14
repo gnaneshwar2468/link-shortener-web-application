@@ -21,7 +21,7 @@ I use a two templates like:HOME ,URLDETAILS
 
 #In home file
 
-In this life i use HTML,CSS for forent end.
+In this file i use HTML,CSS for forent end.
 
 It consist of HOME,LOGIN, SIGNUP-styles.
 
